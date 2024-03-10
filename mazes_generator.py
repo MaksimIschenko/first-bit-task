@@ -141,3 +141,8 @@ if __name__ == "__main__":
     plt.legend(loc='upper right')
     plt.tight_layout()
     plt.show()
+
+    # Сохранение датасета
+    np.save('data/mazes.npy', mazes)
+    np.save('data/solved_mazes.npy', solved_mazes_dataset)
+    np.save('data/solutions.npy', solutions_dataset)
