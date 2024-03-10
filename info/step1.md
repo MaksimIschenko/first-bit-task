@@ -155,5 +155,5 @@ solutions = solve_mazes(mazes, start, end)
 ---
 
 #### Визуализация лабиринтов и их решений:
-![mazes_with_solution.png](mazes_with_solution.png)
+![mazes_with_solution.png](img/mazes_with_solution.png)
 ```

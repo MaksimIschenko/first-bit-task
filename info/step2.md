@@ -209,4 +209,4 @@ torch.save(generator, 'generator_model.pth')
 ---
 
 #### Визуализация функции потерь на валидационной выборке:
-![valid_loss.png](valid_loss.png)
+![valid_loss.png](img/valid_loss.png)
