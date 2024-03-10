@@ -153,11 +153,11 @@ def visualize_val_loss(val_losses: list):
 ```
 
 #### Получено:
-    - модель генератора путей лабиринта 
+    - модель генератора путей лабиринта `models/generator_model.pth`
 
 ---
 
-Полный код в файле [generator.py](..%2Fgenerator.py)Ж
+Полный код в файле [generator.py](..%2Fgenerator.py)
 ```
 # Загрузка данных
 mazes = np.load('data/solved_mazes.npy')
